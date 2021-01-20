@@ -1,6 +1,7 @@
 # Coffee_Website
-A Website with everything about Coffee !
-Built using HTML and CSS.
+A Website with everything about Coffee!
+
+Using HTML and CSS.
 
 Includes:-
 
